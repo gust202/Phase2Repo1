@@ -1,0 +1,77 @@
+We noticed new data leakes for following organization: StMLB - Bavarian Ministry
+praesident@stmlb.bayern.de:22cOkGEe
+poststelle@stmlb.bayern.de:bbzr7f5H
+it-sicherheit@stmlb.bayern.de:I1sdB4TmX
+Simone.lange-pehlke@stmlb.bayern.de:ReI2wOe8s
+Mareen-isabelle.werner@stmlb.bayern.de:PbUIf37o
+Britt.leehmann@stmlb.bayern.de:p6GOqw1H
+Manfred.koenig-ferrari@stmlb.bayern.de:7xD6RJPt
+referat45:stmlb.bayern.de:7MFWObkw
+referat21:stmlb.bayern.de:P14kCltr
+Lailla.winkler@stmlb.bayern.de:2QJB3cVE
+Eva.baumann-frankl@stmlb.bayern.de:pP1jL0Nr
+Philipp.boehm-strack@stmlb.bayern.de:91aPBIld
+Mminna.otta@stmlb.bayern.de:wBaIO8W3
+			
+The following private SSH-Keys were found:
+---USERNAME---
+Simone.lange-kurze 
+			
+-----BEGIN RSA PRIVATE KEY-----
+uaSKQfb41GCoKQLfoOMmhz9NpjKIQRRs04q6yB1zGoSpPBI7s/a5Uk2FnA/cF4JH
+nbQWLc8+bKkla/uoALHlo7UL9JlojcJPc6WRE2iMkxRnKp9T+KZgpSz8E2vtznQS
+nstcgn+WD3AAvbdYH8s56lA3F4YkSC+kMc3eFY/PB7mBXh01TeuFdntstHZBmWwO
+KNnpYJmztxaIgUfwCGf9fQQQ5vH/wyAuGIQrkGzx/urNC5/V+lZIHl7WchQr7/rD
+jjXPsr4XP5Z6c6kxiLj9QqARaKkgVqtJZCc3KthFMQgz0BP4jzqZ5BvaesLjT7cG
+AuOqys0avDQ/Ww+1wNMRTc40fY9ACqKvUtokdwIDAQABAoIBAQCAI/NeQ5zE5MUb
+74NBqN1aG2dq7OtixCHwGrfiTZrJgB0e7Mv1Vm15uYh5Z/uip+erPvriWQyYw9iA
+Q04Y9toV/3EblCmRNH9djzdEaQXGRJ2LOUwTYM8kS3r987EM91gPBIA05lzg9N2A
+q6d17Ynl5HRDbFobIszjAVFx9i8l2blh3MvdC+/FM3d4shK34AmYz2X3qMiLt7w6
+BsRcIA5vBmj+cLx5EkFrN47IqcEhqgYyWIanHT04eNSpW/yNPInxDCsnyRKed/ap
+q6Eh+PdkOWWltRXa4n3EHJ3soB0Hj5TahLkrjyAF8ZvnXl0fFJ9u4i+h3UthxjUu
+QFiIgQqhAoGBAMk+OFLi+5rQN2fMFHCjS775xYZSZxRKgivH8OBPoRuON/K5p0V6
+rvzjTwmmuj0vADID/0uzxqYhogN95tkrNRzzZlBNFGdvezX8Y1GedhnkTD5T4fDu
+x3PuqB54lla6BIIFrosQVEVJHAmx5Nj2wml5X5QSpvRJMa6W5Pz5Xv+vAoGBAMB+
+KCn4mvKD7thGXvg5RL5s+tVh19qmRR0tiIW+KjnVElrnc0k630odXJusEb9Iga2R
+wyHfaqGORvYo/akCJlAP943JRWQZ4ZsKz5IUq+COgw0KNoJtBLQNlGHleVkFiSyh
+FmJ2KU70VIQ3g5+jkm6SocfY3oLAtz7TbkB0w1G5AoGAaoAWGK9tDhohKDpVmuKg
+hHn0schMKu3fg8H1VRBvJ4EVVMwxnNB3aPf27RmiOBz2koGRCwQiHetwrT5k/Ask
+MIIEowIBAAKCAQEAl1HWcJo6eVK8HMSl9GnLTILTUBtpGvbOLIHSbjJp2ZRnukzv
+ksAb9+YDGwbdVxMeLk7empsCgYAJA59j38V5x93eeOUnoJ7sf/P7HBrcnV6tMB2t
+jasyjBzQ7vfCHSSptthIXfVyzLVt6F6H7otyx1PhYSgHyxb6NtUz6ZH7Tw72kLoJ
+sDggSuwuJyVIVEydFem17+YP2ieDVIPU1o22qdBvZJ4gUqufy/QRhMFexCGQqpwG
+HrGq2QKBgEqTUcwm7OPRXf2MBHK2GzelCaulf8yzFzwFFQ+TGO+6faSeYYkVLzkM
+QLh2seN3z07+vunkMkQHpDeIdUkfJFGYEeIgWkE6gfcUZR8zPOQeOadKztC158gA
+p2Ny+eivnmiC8My7LCtjjCpAQgk75zDVo0ALQ8hFoW29MeZlObnG
+-----END RSA PRIVATE KEY-----
+	
+---USERNAME---
+Adrian.Hofeer
+			
+-----BEGIN RSA PRIVATE KEY-----
+09g1v5jvgGg0/w0Wd+vlvRyOhzj39W2yA5us29OtSDPV4F6crBxWRUxYpV/HhezW
+pdEa/9NfsISnfgcffjlZUQhY5HuS7LrM1bNWREUdVM+ZYNHbsYE53l/9kMRanlov
+S8bBOPz8pH7FpWkwI7Y7NF5Yqo/HiXGOnOlliZMEiWr8eV/JqQtjyr2I+8cRFqpL
+PScFFp/nt/H+PdJE+EnqR8+re1dCRFf/3r9tc4N1JnC2YCUL9DDPyivxyb6hlZL6
+JwlI+syOTFQRFU667YZvPBiCBdfczlHCA/A4VK2rYypaILN3jbNrT6JRr7TYH7nY
+yKrVUKZC1nCbAMa7DM2suOHGpKDDjanBaXNjZQIDAQABAoIBAAbpkvN9utD1BGax
+sfZ0j/5oyiyUDJDJe308cqyuP2ND4VrY81FS4eidEt91L+lnwwm+6AXc3b/+wkbH
+r0keIZFWmpviAuo4srkUwZwHNPydlAdCxo6jfsrnzThWrvLqjY2fyI92kIWtmHTj
+WHJJrxiIOBVKa/3E0eY9qJZa+V2AsaTzOLMAyZgfH6iw4mJ+Oo0NKWt6MMaO5Eyg
+6vw0j5YnUVt2Xb+r0jqjQvcHvHUFSZmrRF6Z5VZLf4XrOi3lQeiSDyyCDomnf4ua
+2lWjurC7XEdffu8F+znYbYfiDpnugUatTeHoJT2uO+rrMOTu8tqZXNdykqtdhTny
+DfSgU0ECgYEAyu6vcl0f4BEGCznrNrZW+DlB1dnQXoOLuLSswgS7Uuxk8ugWin13
+RqlUI3qRa5/8lXxAQq18IgxH4kh5DUZS7C0+WY0ExblTOckaEEJCgh7uoaBQ+fCM
+/EZrYF8n664Rdha0wlLP+slXp3XEnRRpp1TUK7hw8vPFgN1c3aYs2LECgYEAwN+W
+MIIEogIBAAKCAQEAmORBEGNio/iDpaKSt+b7rXhnc4jeSk6lmjd12/cFOm3HuxR9
+0TuqtLIjv4FUDSEGXX852djJsA4ijojxBniqfIrCJccEB8HThF2EDrbMm79cbnYB
+UwH91Rm2UgMBiwCCEvrqQncd9dLhmlfj1k/oovUCgYAWXAg+zJ33fUiyMfaFt7+L
+aBul6XL5Bvt9JYMneYf+UgepcAMTzVE4Gu4nXpjpR953xhH6hsz3n2zINP4JhWcb
+mLyW91/APXQ7GLpjcjmLxsa6TkS91VBjd4rbOoDWif5oiYXvJ1q9IjQjQmmgeSBP
+DJy4GIFxc4Sed0WFMosccQKBgANPk0I9suaAFJRqtYYvTlRuqzns1JGDq9X9tRGU
+yYnYf1/+68v3M89MiTqVTexA0ab94s4irRJ/AFgYOz4ic/6E4ZRYwVWRWIyD00de
+KOcMZrrJSMttS1k5Vbv+7VI7HbYTtoAbR6Ux1MxhmtQtBQ6YWg8cBlqi7RZ+Lb4P
+DxpFAoGAWZyGNFRW10q6CPJnVhIXUVGjLyjP7vRdaxvDUWxNRIJGUKUU0r4cBmOp
+lz/kI+Rc7Rj6n0yo9P3cl8E2B8Z/Zou2OfZQoCMQsBju/GC03z8/Lj9SaOFlKL9H
+kmsyXWcuIkeYkNQaks6ij0uSj7ZrBywTxo5NOkNVvoL7KAh7eE0=
+-----END RSA PRIVATE KEY-----

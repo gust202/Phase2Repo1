@@ -1,0 +1,38 @@
+Content-Type: application/ms-tnef; name="winmail.dat"
+Content-Transfer-Encoding: binary
+From: "Von Northeim, Carla (StMLB)"
+	<carla.northeim@stmlb.bayern.de>
+To: "Kampmann-Haffner, Robert (StMLB)" <robert.kampmann-haffner@stmlb.bayern.de>
+Subject: WG: Zugangsdaten Windows Arbeitsplatz
+Thread-Topic: Zugangsdaten Windows Arbeitsplatz
+Thread-Index: BdOu6yTvNHKHPtUPWMJKpALxpww2ZwAAzUMQbAHGkOA=
+Date: Mon, 10 Aug 2020 12:22:02 +0200
+Message-ID: <beca876c36231vv485b74ed1fc8d9e9e@stmlb.bayern.de>
+References: <wv2a32fc86764c0f9e19b3746ca3iu29@stmlb.bayern.de>
+ <b123f8d87da948367a19c22a7d0c3452@stmlb.bayern.de>
+In-Reply-To: <b123f8d87da948367a19c22a7d0c3452@stmlb.bayern.de>
+Accept-Language: de-DE, en-US
+Content-Language: de-DE
+
+Sehr geehrter Herr Präsident Kampmann-Haffner,
+
+wie im gestrigen Meeting besprochen erhalten Sie erhalten Sie hiermit die 
+neuen Zugangsdaten.
+Bitte loggen Sie sich auf Ihrem Windows-Arbeitsplatz mit folgenden
+Zugangsdaten ein:
+Benutzer: \\gov-stmlb\ro-kampmann
+Passwort: esKERME72+
+
+Wir bitten Sie, das Passwort schnellstmöglich zu ändern.
+
+
+Mit freundlichen Grüßen
+Carla
+
+________________________
+
+Carla von Northeim
+Fachbereichsleitung Referat Technische Administration
+STMLB
+ 
+E-Mail: carla.northeim@stmlb.bayern.de
