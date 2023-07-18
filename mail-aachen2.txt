@@ -1,0 +1,39 @@
+Content-Type: application/ms-tnef; name="winmail.dat"
+Content-Transfer-Encoding: binary
+From: "Von Abt, Robert (StMLB)"
+	<robert.abt@stmlb.bayern.de>
+To: "Aachen, Yvonne (StMLB)" <Yvonne.A@stmlb.bayern.de>
+Subject: WG: Zugangsdaten Windows Arbeitsplatz
+Thread-Topic: Zugangsdaten Windows Arbeitsplatz
+Thread-Index: BdOu6yTvNHKHPtUPWMJKpALxpww2ZwAAzUMQbAHGkOA=
+Date: Mon, 17 Apr 2023 12:22:02 +0200
+Message-ID: <beca876c36231vv485b74ed1fc8d9e9e@stmlb.bayern.de>
+References: <wv2a32fc86764c0f9e19b3746ca3iu29@stmlb.bayern.de>
+ <b123f8d87da948367a19c22a7d0c3452@stmlb.bayern.de>
+In-Reply-To: <b123f8d87da948367a19c22a7d0c3452@stmlb.bayern.de>
+Accept-Language: de-DE, en-US
+Content-Language: de-DE
+
+Sehr geehrte Frau Präsidentin Aachen,
+
+wie im vorherigen Meeting besprochen erhalten Sie erhalten Sie hiermit die 
+neuen Zugangsdaten.
+Bitte loggen Sie sich auf Ihrem Windows-Arbeitsplatz mit folgenden
+Zugangsdaten ein:
+
+Benutzer: \\gov-StMLB\Yv-Aachen
+Passwort: HXBy2tT6ZQ
+
+Wir bitten Sie, das Passwort schnellstmöglich zu ändern.
+
+
+Mit freundlichen Grüßen
+Robert Abt
+
+________________________
+
+Robert Abt
+Fachbereichsleitung Referat Technische Administration
+Bayerisches Staatsministerium für Leaks and Databreaches
+ 
+E-Mail-Adresse: robert.abt@stmlb.bayern.de

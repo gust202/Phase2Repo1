@@ -1,0 +1,55 @@
+We noticed new data leaks for following organization: StMLB - Bavarian State Ministry for Leaks and Databreaches
+praesident@stmlb.bayern.de:)|Pz.j]yvvP~5T3Q"6
+presse@stmlb.bayern.de:TThG$tUecLUC*9?i&7
+luca.schreiner@stmlb.bayern.de:W%_jw)RA~U!l`SszT8
+technik@stmlb.bayern.de:Zx7eh4{2"j7gCq\^/|
+sandra.schuster@stmlb.bayern.de:fXR1B7D=X?eQOKN2P$
+michael.eisenberg@stmlb.bayern.de:T/gb]hb!oo{=cC9%\)
+frank.lange@stmlb.bayern.de:x\^(?e\9PT@F>c0`9r
+bibliotheksservice@stmlb.bayern.de:V$X3]/q,X}Zy&9AOi.
+vhs-kurse@stmlb.de:z7hVt05TtB19mFV
+felix.probst@stmlb.bayern.de:iH{'d#6/&3Q=<I_q_I
+abteilung1@stmlb.bayern.de:clZYdY.;FA]phc8oP>
+abteilung2@stmlb.bayern.de:9F^EN@F2t\G&yM.!-]
+tanja.krause@stmlb.bayern.de:&C1e'Crj\&0`68&Vz>
+
+
+The following private SSH-Keys were found:
+
+--USERNAME--
+michael.foerster
+
+-----BEGIN RSA PRIVATE KEY-----
+MIICXAIBAAKBgQCbZuHU9zhXTPuN6H36rlkpz9bJuAraQjXNB5YGg5b+PhxkAaHp
+NiCSbJgbCmWfUJY/HuOc9lyu9MTbMyikVJZ1ZyW6QR1pEPZUC5L4VOtZsmE8+5bB
+FmuirgBZhCU3Z88Re2RlBm4VNQDbdsAT76snd3jo4deN0bUSZswdxpTEJQIDAQAB
+AoGAZmrPu0OTZjXeNBBdtrDhIqVPsXIR9PZd7tppDbH7+WOF4oMQ6lo57UaUmH2p
+q+24l7EL4Y6cVtIKS0zUJDl7TqqDtsJOxU1VPyvCyx4n2D2B+iunZFtxJNiYqAGE
+lVTKYUg4A1yB6OolYZ8zkC3IXSr6O8ltZG86Ib2EPwB5CwECQQDp6iHdXagWyXgu
+sMJNKIca3kPDta/US5SEiwBFjVGxfz0u0tTICfiWCCqVMFoSD5aqxruRhnalgyPo
+1JFqmtoNAkEAqhMMAIWHb+T/Im55i5uecyFYcauU9rNsUfd0fvUTsp12BTMW1Nva
+W0Vvd442X2Hv/dKd8/Fq1bdnBq4GwomEeQJAJLhMeKOrL2iRJUM6PUKPcvhRSvfK
+klkLB4OKl2CH4oVG5YLTRFPMYkEF7kWY3hz0Wfq4ly+0kGb1zCcSbNnCQQJAHon9
+Bbr0bus3xP8BZEg1U4cRUpf0z7e4I5/Dk2h+ePw9TQG3f9FajDkTouwuZ0I2zeUb
+58nZ3TZpkZF+NUBsQQJBANFoWtDRMUhBMz3tX+UZDmWtMWfZLA2q8upAxebrribU
+uR/gZEark1fEqFh586+HbJKtwESC9T8VfytHvVOjlVM=
+-----END RSA PRIVATE KEY-----
+
+--USERNAME--
+julia.kruger
+
+-----BEGIN RSA PRIVATE KEY-----
+MIICWwIBAAKBgF8VgZq5m5mzwCXICihyjP3vrEppgVG0Ms3JjkhdhOj2YjeMv3+b
+FuYiBstnzer579x+ktelmb0ceorjskz/4U8AOhXTQN9x5eaq3uMTNAaMBg3M6HQR
+T0ulLXzoMwxGkXISKM9XRHiCLY2AzapJqZ7ZD7xxM3Mhce1s2tTTE+kTAgMBAAEC
+gYAhJQEJq1unJ3Z6dRG9abjmJ+7Z/Y8bqQHwpCrZ5OeYwZIZJRH37Fr+G6xcqTGp
+kDhhlymezFYcCtpYoeicWLH0Bq0exBisZ8NOlUabEu83hoK4LmQqvjme2I+DZfKP
+kfpuaC5N2laC1BHcxnPHXNlp1E/2pXisQWsZP7E7NBmiuQJBALgxbEXHoVGitDBz
+GGd9mP3jRdw0XgPb0LyKnBK4l62bf+uMNF1gOlOJ952w7k+arWcT/7P77OuAlk5G
+dRUZA6UCQQCEJvJx5uvB46EB18ePhsCvHLu2m58+HU43pTiD6//khb9hiS9hbjVv
+XjjuJNaYWE/nPqjglyuNtCu1vhVuhTxXAkEAs7reKLTkD7GQ29njDVD8EXlMeNPM
+jT1X0DH8mzPuJWQfjWtwyVCVeWCd8wxrbdfDrlpQX4LKqv39LIIJyz1uVQJAGD7t
+DGjJqHETATuNqY+XmokzB3XV6ZeG2j6997Y85LiFPGfnAYEu3Jf06fxoQtsxDcQ5
+R7t0ijMcMeQGGpjnUQJARnhjDEbyFvzXHbe8isbYlVBGFbZDOdX4K9CZRAEX9cRQ
+XAlR/guK5yDiuQ/fUD9YQ1HgAAus27jTaeBnvECKiA==
+-----END RSA PRIVATE KEY-----
